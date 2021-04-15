@@ -1,0 +1,12 @@
+body {
+  font-family: Palatino;
+}
+
+.flex-container {
+  display: flex;
+}
+
+ul > ul{
+  border: 2px solid grey;
+  list-style: none;
+}
